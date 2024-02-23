@@ -1,0 +1,1 @@
+Populate this directory by downloading the files from [Hugging Face](https://huggingface.co/datasets/reglab/legal_hallucinations_paper_data/tree/main/samples).

@@ -1,0 +1,22 @@
+# Hidden files
+__*
+.*
+!.gitignore
+~$*
+
+# Secrets
+reglab_secrets.py
+
+# Venv
+venv
+
+# Temp
+*.log
+*.db
+*.db-shm
+*.db-wal
+*.aux
+
+# Results
+results/objects/*
+results/figures/*
