@@ -1,19 +1,19 @@
 # Large Legal Fictions
 
-[![arXiv](https://img.shields.io/badge/arXiv-2401.01301-b31b1b.svg)](https://arxiv.org/abs/2401.01301)
+This code accompanies the article [Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models](https://doi.org/10.1093/jla/laae003), authored by Matthew Dahl, Varun Magesh, Mirac Suzgun, and Daniel E. Ho.
 
-This code accompanies the paper [Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models](https://arxiv.org/abs/2401.01301), authored by Matthew Dahl, Varun Magesh, Mirac Suzgun, and Daniel E. Ho.
-
-Please cite our preprint as follows:
+Please cite our article as follows:
 
 ```
 @misc{dahl2024largelegalfictions,
     title = {Large {{Legal Fictions}}: {{Profiling Legal Hallucinations}} in {{Large Language Models}}},
     author = {Matthew Dahl and Varun Magesh and Mirac Suzgun and Daniel E. Ho},
     year = {2024},
-    eprint = {2401.01301},
-    archivePrefix = {arXiv},
-    primaryClass = {cs.CL}
+    journal = {Journal of Legal Analysis},
+    volume = {16},
+    number = {1},
+    pages = {64--93},
+    doi = {10.1093/jla/laae003}
 }
 ```
 
